@@ -9,9 +9,9 @@
  
  O projeto foi desenvolvido por um grupo de 5 alunos da residência
  
- [Alan Patrick](https://github.com/Alan-Patrik)
- [Diego Canedo](https://github.com/DiegoCanedo)
- [Leonardo Lichtenberger](https://github.com/leonardo-lichtenberger)
- [Rômulo Alves](https://github.com/roalvesrj)
- [Gabriel Maiworm](https://github.com/Txyzz)
+ [Alan Patrick](https://github.com/Alan-Patrik) -
+ [Diego Canedo](https://github.com/DiegoCanedo) -
+ [Leonardo Lichtenberger](https://github.com/leonardo-lichtenberger) -
+ [Rômulo Alves](https://github.com/roalvesrj) -
+ [Gabriel Maiworm](https://github.com/Txyzz) -
  
