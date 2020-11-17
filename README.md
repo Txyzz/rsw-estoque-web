@@ -9,8 +9,9 @@
  
  O projeto foi desenvolvido por um grupo de 5 alunos da residência
  
- Alan: https://github.com/Alan-Patrik
- Diego: https://github.com/DiegoCanedo
- Leonardo: https://github.com/leonardo-lichtenberger 
- Rômulo: https://github.com/roalvesrj
- [Lets go to Quora](https://www.quora.com)
+ [Alan Patrick](https://github.com/Alan-Patrik)
+ [Diego Canedo](https://github.com/DiegoCanedo)
+ [Leonardo Lichtenberger](https://github.com/leonardo-lichtenberger)
+ [Rômulo Alves](https://github.com/roalvesrj)
+ [Gabriel Maiworm](https://github.com/Txyzz)
+ 
